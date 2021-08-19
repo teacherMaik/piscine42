@@ -1,0 +1,5 @@
+Credentials cache: API:FFA2BDEF-1814-4F38-8242-2389CAD35466
+        Principal: mbennett@42MADRID.COM
+
+  Issued                Expires               Principal
+Aug 10 10:48:02 2021  Aug 10 20:47:55 2021  krbtgt/42MADRID.COM@42MADRID.COM
