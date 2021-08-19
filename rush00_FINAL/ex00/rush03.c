@@ -33,6 +33,7 @@ void	rush(int x, int y)
 				ft_putchar(' ');
 			ch++;
 		}
+		//Add if (x != 0)...
 		ft_putchar('\n');
 		l++;
 	}
