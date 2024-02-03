@@ -14,5 +14,5 @@
 
 void	ft_putchar(char c)
 {
-	write (1, &c, 1);
+	write (1, &c, 1); //Close to the machine function to write a char on the terminal line
 }

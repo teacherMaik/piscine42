@@ -16,10 +16,10 @@ void	ft_print_reverse_alphabet(void)
 {
 	char	l;
 
-	l = 122;
+	l = 122; //Does same a ft_print reverse starting with ASCII "z" and going down
 	while (l >= 97)
 	{
 		write (1, &l, 1);
-		l--;
+		l--; //instead of increment up increment down
 	}
 }

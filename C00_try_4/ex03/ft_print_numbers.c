@@ -12,13 +12,12 @@
 
 #include <unistd.h>
 
-void	ft_print_numbers(void);
-
 void	ft_print_numbers(void)
 {
-	int	i;
+	int	i; //Declares variable "i" for "integer"
 
-	i = 48;
+	i = 48; //startat ASCII 48 which is the digit 0
+
 	while (i <= 57)
 	{
 		write (1, &i, 1);

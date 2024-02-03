@@ -12,19 +12,18 @@
 
 #include <unistd.h>
 
-void	ft_is_negative(int n);
-
-void	ft_is_negative(int n)
+void	ft_is_negative(int n) //Recieves an integer as a parameter
 {
-	int	i;
+	int	i; 
 
 	i = n;
-	if (i >= 0)
+	if (i >= 0) //Tests to see if integer is greater than 0
 	{
-		write (1, "P", 1);
+		write (1, "P", 1); //Writes "P" on terminal line if positive
 	}
 	else
 	{
-		write (1, "N", 1);
+		write (1, "N", 1); //Writes "N" on terminal if negative
 	}
 }
+
