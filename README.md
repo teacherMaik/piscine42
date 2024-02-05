@@ -1,4 +1,4 @@
 # piscine42
-## A collection of my exercises from participating in the 42 School piscine
-\<Hello World\>
+## A collection of my exercises from participating in the 42 School piscine in Madrid
+\<Hello World\> <br />
 \<Hello Madrid\>
