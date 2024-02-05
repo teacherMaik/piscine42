@@ -1,4 +1,4 @@
 # piscine42
-my exercises and mains
-<Hello World>
-<Hello Madrid>
+## A collection of my exercises from participating in the 42 School piscine
+\<Hello World\>
+\<Hello Madrid\>
